@@ -13,7 +13,11 @@ google_url = 'https://scholar.google.com/citations?user=7UbB8JIAAAAJ&hl=en'
 
 st.sidebar.markdown(f""" Connect With Me:                     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]({linkedin_url})  [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-white?logo=GoogleScholar)]({google_url})
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-black?logo=ResearchGate)]({'https://www.researchgate.net/profile/Udhaya-Prasad-S'})""")
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-black?logo=ResearchGate)]({'https://www.researchgate.net/profile/Udhaya-Prasad-S'})
+[![Github](https://img.shields.io/badge/Github-black?logo=Github)]({'https://github.com/UdhayaPrasad'})
+
+""")
+
 st.sidebar.divider()
 st.sidebar.text('Made with ❤️ by Udhay')
 
@@ -74,13 +78,13 @@ features include playing music from YouTube, performing Google searches, opening
 WhatsApp messages.
 Tools & Technologies: Python, pyttsx3, speech recognition, smtplib
                 
-- **Analysis of Insulin Concentration Levels in Normal and Dexamethasone-Induced Hyperglycemic Rats** - [Link]('https://github.com/UdhayaPrasad/Projects/blob/main/Experiment-1((prediction)).ipynb') :
+- **Analysis of Insulin Concentration Levels in Normal and Dexamethasone-Induced Hyperglycemic Rats**-'https://insulin-concentration-prediction.streamlit.app/' 
 
 Implemented supervised machine learning algorithms to predict insulin levels in rats and developed a web UI using Streamlit.
 Algorithms: Random Forest, KNN, Decision Tree, AdaBoost.
 Tools & Technologies: Python, scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, Streamlit - Link
 
-- **CYBER ATTACK DETECTION IN AD HOC NETWORK USING ARTIFICIAL INTELLIGENCE-[Link]('https://github.com/UdhayaPrasad/Projects/blob/main/Intrusion_Detection.ipynb'):**  
+- **CYBER ATTACK DETECTION IN AD HOC NETWORK USING ARTIFICIAL INTELLIGENCE-[Link]('https://github.com/UdhayaPrasad/Projects/blob/main/supervised.py'):**  
 
 Developed an intrusion detection system using the NSL-KDD dataset. Preprocessed data, selected features, and handled class
 imbalance with SMOTE. Evaluated models using accuracy, precision, recall, and F1-score.
