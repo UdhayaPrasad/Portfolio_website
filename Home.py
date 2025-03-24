@@ -12,8 +12,7 @@ linkedin_url = "https://www.linkedin.com/in/udhayaprasad-s-9592bb272/"
 google_url = 'https://scholar.google.com/citations?user=7UbB8JIAAAAJ&hl=en'
 
 st.sidebar.markdown(f""" Connect With Me:                     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]({linkedin_url})         
-[![GoogleScholar](https://img.shields.io/badge/GoogleScholar-white?logo=GoogleScholar)]({google_url})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]({linkedin_url})  [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-white?logo=GoogleScholar)]({google_url})
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-black?logo=ResearchGate)]({'https://www.researchgate.net/profile/Udhaya-Prasad-S'})""")
 st.sidebar.divider()
 st.sidebar.text('Made with ❤️ by Udhay')
